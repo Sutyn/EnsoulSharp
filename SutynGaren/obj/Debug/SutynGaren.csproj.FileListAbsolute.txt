@@ -1,0 +1,15 @@
+C:\Sandbox\_Garen\Encrypt\bin\Release\EnsoulSharp.SDK.dll
+C:\Sandbox\_Garen\Encrypt\bin\Release\EnsoulSharp.Wrapper.dll
+C:\Sandbox\_Garen\Encrypt\bin\Release\SharpDX.Direct3D9.dll
+C:\Sandbox\_Garen\Encrypt\bin\Release\SharpDX.dll
+C:\Sandbox\_Garen\Encrypt\bin\Release\Newtonsoft.Json.dll
+C:\Sandbox\_Garen\Encrypt\obj\Debug\LoadEncrypt.Properties.Resources.resources
+C:\Sandbox\_Garen\Encrypt\obj\Debug\SutynGaren.csproj.GenerateResource.cache
+C:\Sandbox\_Garen\Encrypt\obj\Debug\SutynGaren.csproj.CoreCompileInputs.cache
+C:\Sandbox\_Garen\Encrypt\obj\Debug\SutynGaren.csproj.CopyComplete
+C:\Sandbox\_Garen\Encrypt\bin\Release\SutynGaren.exe.config
+C:\Sandbox\_Garen\Encrypt\bin\Release\SutynGaren.exe
+C:\Sandbox\_Garen\Encrypt\bin\Release\SutynGaren.pdb
+C:\Sandbox\_Garen\Encrypt\obj\Debug\SutynGaren.csprojAssemblyReference.cache
+C:\Sandbox\_Garen\Encrypt\obj\Debug\SutynGaren.exe
+C:\Sandbox\_Garen\Encrypt\obj\Debug\SutynGaren.pdb
