@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{8880ECAE-C432-4357-8DCA-C20D1C90E20D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LoadEncrypt</RootNamespace>
-    <AssemblyName>LoadEncrypt</AssemblyName>
+    <RootNamespace>SutynSoraka</RootNamespace>
+    <AssemblyName>SutynSoraka</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
